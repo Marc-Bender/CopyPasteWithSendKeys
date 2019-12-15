@@ -33,7 +33,7 @@ Partial Class Form1
         Me.goButton.Name = "goButton"
         Me.goButton.Size = New System.Drawing.Size(775, 23)
         Me.goButton.TabIndex = 1
-        Me.goButton.Text = "Jetzt Tastenanschläge vorgaukeln"
+        Me.goButton.Text = "&Jetzt Tastenanschläge vorgaukeln"
         Me.goButton.UseVisualStyleBackColor = True
         '
         'inputTextBox
